@@ -1,5 +1,3 @@
-The Role of ChatGPT in Creating Personalized Banking Experiences
-==============================================================================
 
 Advances in artificial intelligence and machine learning have revolutionized the banking industry, enabling banks to provide personalized services to their customers. Chatbots, in particular, have become an increasingly popular tool for delivering customized experiences to customers.
 

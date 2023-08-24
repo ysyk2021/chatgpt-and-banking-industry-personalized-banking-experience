@@ -1,5 +1,3 @@
-Common challenges faced by banks
-===========================================================================
 
 The banking industry has always been faced with a lot of challenges, and some of these challenges have become more complex due to technological advancements. In this chapter, we will discuss some of the common challenges that banks face.
 

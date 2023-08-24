@@ -1,5 +1,3 @@
-Different Types of Financial Institutions
-================================================================================
 
 The financial industry is composed of various types of institutions that offer an array of services to meet the needs of individuals, businesses, and governments. In this chapter, we will discuss the different types of financial institutions.
 

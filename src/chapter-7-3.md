@@ -1,5 +1,3 @@
-Conclusion and future outlook
-=================================================================================
 
 ChatGPT is a powerful tool for creating personalized banking experiences that meet the needs and preferences of individual customers. In this chapter, we will explore the future of the banking industry with ChatGPT and the potential advancements and challenges that lie ahead.
 

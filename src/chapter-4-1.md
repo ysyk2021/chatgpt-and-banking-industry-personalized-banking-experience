@@ -1,5 +1,3 @@
-Introduction to AI and chatbots
-==================================================================================
 
 As the banking industry continues to evolve, many banks are turning to artificial intelligence (AI) and chatbots to improve the customer experience. In this chapter, we will provide an introduction to AI and chatbots and their role in the banking industry.
 
@@ -15,9 +13,6 @@ Chatbots are computer programs designed to simulate conversation with human user
 
 By combining AI with chatbots, banks can create a seamless and personalized banking experience for customers, improving customer satisfaction and loyalty.
 
-How AI and chatbots can improve customer experience in banking industry
-==========================================================================================================================
-
 In addition to providing personalized support to customers, AI and chatbots can improve the customer experience in several other ways:
 
 * **24/7 availability**: Chatbots can provide support to customers around the clock, allowing them to access banking services at any time.
@@ -26,9 +21,6 @@ In addition to providing personalized support to customers, AI and chatbots can 
 AI can analyze customer data to identify patterns and trends, allowing banks to make informed decisions about product development, pricing, and marketing.
 
 Overall, AI and chatbots have the potential to revolutionize the banking industry by providing a more personalized, efficient, and effective customer experience.
-
-Conclusion
-==========
 
 In conclusion, AI and chatbots have a significant role to play in the banking industry. By providing personalized support, analyzing customer data, and improving transaction processing times, AI and chatbots can improve the overall customer experience and increase customer satisfaction and loyalty.
 

@@ -1,5 +1,3 @@
-Potential Advancements in Banking Industry with ChatGPT
-===========================================================================================================
 
 ChatGPT has already made significant strides in the banking industry, providing personalized experiences to customers. However, there is still much potential for advancements in the future. In this chapter, we will discuss the potential advancements in the banking industry with ChatGPT.
 

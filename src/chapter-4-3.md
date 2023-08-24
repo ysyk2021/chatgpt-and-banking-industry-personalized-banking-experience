@@ -1,5 +1,3 @@
-Benefits of using AI and chatbots for banks
-==============================================================================================
 
 AI and chatbots offer several benefits for banks, including:
 

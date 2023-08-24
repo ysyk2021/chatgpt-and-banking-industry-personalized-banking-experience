@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the potential benefits of using ChatGPT technology to create personalized banking experiences in the banking industry. We discussed the challenges facing the banking industry and how AI and chatbots can help overcome them.
 

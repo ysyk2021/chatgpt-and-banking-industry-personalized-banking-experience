@@ -1,5 +1,3 @@
-Factors Affecting Banking Industry
-=============================================================================
 
 The banking industry plays a vital role in the global economy, facilitating financial transactions, providing loans, and offering a range of financial services to individuals and businesses. However, the industry faces numerous challenges and must navigate various factors that influence its operations and growth. In this chapter, we will explore some of the key challenges and factors affecting the banking industry today.
 

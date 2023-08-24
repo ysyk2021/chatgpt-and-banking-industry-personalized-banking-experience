@@ -1,5 +1,3 @@
-Definition of Banking Industry
-=====================================================================
 
 The banking industry is an essential component of the global economy, providing financial services and products to individuals, businesses, and governments. In this chapter, we will define the banking industry and discuss its role in the economy.
 

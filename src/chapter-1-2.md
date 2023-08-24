@@ -1,5 +1,3 @@
-Explanation of Banking Industry and Its Importance
-================================================================
 
 The banking industry is a critical component of the global economy, providing essential financial services and products to individuals, businesses, and governments. In this chapter, we will provide an overview of the banking industry and discuss its importance.
 

@@ -1,5 +1,3 @@
-Case Studies of Banks that have Successfully Implemented ChatGPT in their Services
-=======================================================================================================================================
 
 ChatGPT has the potential to transform the banking industry by providing personalized banking experiences to customers. In this chapter, we will discuss case studies of banks that have successfully implemented ChatGPT in their services.
 

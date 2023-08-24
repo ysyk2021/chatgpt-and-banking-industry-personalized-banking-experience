@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Banking
-=================================================
 
 In recent years, the banking industry has seen a significant shift towards the use of artificial intelligence (AI) and chatbots to improve the customer experience. This chapter will provide an introduction to AI and chatbots, explore how they can improve the customer experience in the banking industry, and discuss the benefits of using AI and chatbots for banks.
 

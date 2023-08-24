@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Banking Industry
-===================================================================================================
 
 Implementing ChatGPT in the banking industry requires careful planning and execution. In this chapter, we will discuss the general steps that banks should follow to successfully implement ChatGPT.
 

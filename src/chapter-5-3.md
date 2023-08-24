@@ -1,5 +1,3 @@
-How ChatGPT can be Used for Creating Personalized Banking Experiences
-=======================================================================================================
 
 ChatGPT is an AI-powered chatbot that has the ability to understand natural language and provide relevant responses to customer queries. In this chapter, we will discuss how ChatGPT can be used in the banking industry to create personalized experiences for customers.
 

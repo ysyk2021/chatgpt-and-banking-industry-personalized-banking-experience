@@ -1,5 +1,3 @@
-Chapter 6: Future of Banking Industry with ChatGPT
-==================================================
 
 ChatGPT has already shown its potential in transforming the banking industry by providing personalized banking experiences to customers. However, there is still much to be explored in terms of potential advancements and challenges. In this chapter, we will discuss the potential advancements in the banking industry with ChatGPT, emerging trends and challenges, and our future outlook.
 

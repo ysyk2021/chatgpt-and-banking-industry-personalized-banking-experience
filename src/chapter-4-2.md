@@ -1,5 +1,3 @@
-How AI and Chatbots Can Improve Customer Experience in Banking Industry
-==========================================================================================================================
 
 Artificial Intelligence (AI) and chatbot technologies have revolutionized various industries, including banking. In this chapter, we will explore the role of AI and chatbots in the banking industry and how these technologies can enhance the customer experience. From personalized interactions to streamlined processes, AI-powered chatbots have the potential to transform traditional banking practices and drive customer satisfaction to new heights.
 

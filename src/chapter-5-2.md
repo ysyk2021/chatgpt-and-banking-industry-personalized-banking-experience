@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is an AI-powered chatbot that uses natural language processing (NLP) techniques to understand and respond to customer queries. In this chapter, we will discuss the features and capabilities of ChatGPT in more detail.
 
