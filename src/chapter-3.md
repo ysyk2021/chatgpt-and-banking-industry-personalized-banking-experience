@@ -32,4 +32,4 @@ Impact of These Challenges on Customer Experience and Satisfaction
 
 The challenges faced by banks can have a significant impact on customer experience and satisfaction. For example, if a bank's legacy systems are outdated and inefficient, customers may experience delays or errors when attempting to complete transactions. Similarly, if a bank fails to protect its customers' data from cybersecurity threats, customers may lose trust in the bank and seek services elsewhere.
 
-By addressing these challenges, banks can enhance their operations, improve customer satisfaction, and stay ahead of the competition. In the next chapter, we will discuss how ChatGPT can help banks overcome some of these challenges and provide a personalized banking experience for their customers.
+By addressing these challenges, banks can enhance their operations, improve customer satisfaction, and stay ahead of the competition.

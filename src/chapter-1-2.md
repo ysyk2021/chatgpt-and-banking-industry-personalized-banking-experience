@@ -18,4 +18,4 @@ The banking industry is vital to the economy for several reasons, including:
 * Supporting Economic Growth: By providing loans and other financing options, banks enable businesses to invest in new projects and support economic growth.
 * Promoting Financial Stability: Banks play a crucial role in maintaining financial stability by monitoring the financial system and taking steps to prevent crises.
 
-Overall, the banking industry is essential for the functioning of the global economy, and its importance cannot be overstated. In the next chapter, we will discuss the different types of financial institutions that make up the banking industry and their respective roles.
+Overall, the banking industry is essential for the functioning of the global economy, and its importance cannot be overstated.
