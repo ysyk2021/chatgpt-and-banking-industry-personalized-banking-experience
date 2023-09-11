@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced language model powered by artificial intelligence (AI) that has transformed the banking industry by providing personalized banking experiences. In this chapter, we will explore the nature of ChatGPT, its underlying technology, and its applications in the banking sector.
 

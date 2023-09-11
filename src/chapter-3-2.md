@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Banks
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the integration of ChatGPT into the banking industry to provide personalized banking experiences, banks face several common challenges. This chapter explores these challenges and discusses strategies for overcoming them to ensure successful implementation.
 

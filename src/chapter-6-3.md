@@ -1,5 +1,4 @@
-Chapter: Case Studies of Banks Successfully Implementing ChatGPT
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine real-world case studies of banks that have successfully implemented ChatGPT technology in their services. These case studies highlight the benefits, challenges, and best practices associated with leveraging ChatGPT to create personalized banking experiences.
 

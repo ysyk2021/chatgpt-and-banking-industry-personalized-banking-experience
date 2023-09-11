@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in Banking and ChatGPT
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of ChatGPT into the banking industry has brought about numerous advancements in personalized banking experiences. However, there are also emerging trends and challenges that must be addressed to fully leverage the potential of ChatGPT. In this chapter, we will explore some of these emerging trends and challenges.
 

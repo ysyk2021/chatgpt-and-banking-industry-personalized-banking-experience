@@ -1,5 +1,4 @@
-Chapter: Definition of the Banking Industry
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide a comprehensive definition of the banking industry and its key characteristics. Understanding the banking industry is essential for comprehending the context in which AI and chatbot technologies are being implemented to create personalized banking experiences.
 

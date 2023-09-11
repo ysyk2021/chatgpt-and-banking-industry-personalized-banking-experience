@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT in the Banking Industry
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the step-by-step process for implementing ChatGPT technology in the banking industry to create personalized banking experiences. These steps provide a comprehensive guide for banks looking to leverage AI-powered chatbots effectively.
 

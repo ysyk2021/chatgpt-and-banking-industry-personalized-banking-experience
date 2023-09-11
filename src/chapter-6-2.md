@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Creating Personalized Banking Experiences
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for leveraging ChatGPT technology to create personalized banking experiences. ChatGPT, powered by AI, offers opportunities for the banking industry to enhance customer service, provide tailored recommendations, and deliver personalized assistance. By following these best practices, banks can ensure a seamless integration of ChatGPT into their operations and deliver exceptional personalized banking experiences to their customers.
 

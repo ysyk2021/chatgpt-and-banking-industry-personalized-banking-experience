@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in the Banking Industry with ChatGPT
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of ChatGPT into the banking industry has already revolutionized customer service and personalized experiences. However, there are several potential advancements that can further enhance the role of ChatGPT in the banking industry. In this chapter, we will explore some of these potential advancements and their implications.
 

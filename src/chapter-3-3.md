@@ -1,5 +1,4 @@
-Chapter: Impact of These Challenges on Customer Experience and Satisfaction
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While integrating ChatGPT into the banking industry has brought about personalized banking experiences, it also poses certain challenges that can impact customer experience and satisfaction. In this chapter, we will explore the impact of these challenges and discuss strategies for mitigating their effects.
 

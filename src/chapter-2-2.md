@@ -1,5 +1,4 @@
-Chapter: Different Types of Financial Institutions
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of financial institutions that exist within the banking industry. These institutions play diverse roles in providing financial services, catering to various customer needs, and contributing to the overall stability and functioning of the financial system.
 

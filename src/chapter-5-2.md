@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an AI-powered chatbot that has revolutionized the banking industry by providing personalized banking experiences. With its advanced features and capabilities, ChatGPT offers a range of benefits to both banks and customers. In this chapter, we will explore the key features and capabilities of ChatGPT.
 

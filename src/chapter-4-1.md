@@ -1,5 +1,4 @@
-Chapter: Introduction to AI and Chatbots
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to Artificial Intelligence (AI) and chatbots, exploring their role in revolutionizing the banking industry and creating personalized banking experiences. We will discuss the fundamental concepts of AI, the evolution of chatbot technology, and their applications in the banking sector.
 
